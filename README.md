@@ -4,4 +4,5 @@ Simple bank site written in html and css for midterm project
 Zeynep Humaç 200709026
 https://github.com/zeynephumac/WebMidtermProject
 
-![image](https://github.com/zeynephumac/WebMidtermProject/assets/95718175/a31de84b-c82b-418a-a8d5-6d9862a047e4)
+![284594597-09db8b86-24fc-420f-9bbb-8a6dae461dba](https://github.com/user-attachments/assets/6b11ee04-4233-49a2-9549-634589285cc4)
+
